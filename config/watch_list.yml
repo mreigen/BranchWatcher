@@ -1,0 +1,5 @@
+---
+- :repo: mreigen/test-branch-watcher
+  :branch: master
+- :repo: PerceptiveCloudPlatform/cms
+  :branch: develop
